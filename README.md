@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Raman
 
-Software Product Manager @ ADLINK Tehcnology Inc. COM(Computer On Modules) BU
+Software Product Manager @ ADLINK Tehcnology Inc. 
+</br>COM(Computer On Modules) BU
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](kkraman02.github.io)                                                 
 - 🌱 I’m currently learning Yocto and OpenBMC development
