@@ -4,7 +4,7 @@ Software Product Manager @ ADLINK Tehcnology Inc.
 </br>COM(Computer On Modules) BU
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://kkraman02.github.io/)                                                
-- 🌱 I’m currently learning Yocto and OpenBMC development
+- 🌱 I’m currently working on the Yocto and EDK2 development
 - 👯 I’m looking to collaborate on Yocto and Linux community
 - 💬 Ask me about Tech
 - 📫 How to reach me :
