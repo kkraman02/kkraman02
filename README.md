@@ -13,7 +13,26 @@ Software Product Manager @ ADLINK Tehcnology Inc.
 - ⚡ Fun fact: I can speak Chinese(Traditional) a bit.
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50" height="50" alt="C"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="50" height="50" alt="C++"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50" alt="Python"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/html-5.png" width="50" height="50" alt="HTML5"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/css3.png" width="50" height="50" alt="CSS3"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="50" height="50" alt="TensorFlow"></td>
+  </tr>
+</table>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=jpM86jnOmewb&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=jpM86jnOmewb&format=png&color=000000" width="50" height="50" alt="Linux"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" height="50" alt="VS Code"></td>
+    <td><img src="https://img.icons8.com/color/48/000000/pycharm.png" width="50" height="50" alt="PyCharm"></td>
+    <td><img src="https://img.icons8.com/color/50/000000/git.png" width="50" height="50" alt="Git"></td>
+    <td><img src="https://img.icons8.com/dusk/64/000000/anaconda.png" width="50" height="50" alt="Anaconda"></td>
+  </tr>
+</table>
