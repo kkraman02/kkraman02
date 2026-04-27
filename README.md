@@ -10,7 +10,7 @@ Software Product Manager @ ADLINK Tehcnology Inc.
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kothandaraman/)
 - 😄 Pronouns: Laman
-- ⚡ Fun fact: I can speak Chinese(Traditional) a bit.
+- ⚡ Fun fact: I can speak Chinese(Traditional).
 
 ### I code in
 
